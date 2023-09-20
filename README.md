@@ -8,6 +8,8 @@ COMP90051 Statistical Machine Learning 2023 SM2 Group 14
 To run the pipeline, please run the files in order:
 1. `visualize.ipynb`: This notebook is for EDA and preliminary visualization.
 2. `Final_modek.ipynb`: The entire process for implementing SVM model.
-3. `cnn.ipynb`: The CNN model with two domains.
-4. `word2_rnn.ipynb`: The RNN model using word2vec.
-5. "meeting minutes" folder: all the meeting minute documents.
+
+Other files not required to run:
+1. `cnn.ipynb`: The CNN model with two domains.
+2. `word2_rnn.ipynb`: The RNN model using word2vec.
+3. "meeting minutes" folder: all the meeting minute documents.
